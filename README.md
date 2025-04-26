@@ -1,0 +1,1 @@
+Populates Anki decks with cards created based on vocabulary I've built up in Google Sheets.
